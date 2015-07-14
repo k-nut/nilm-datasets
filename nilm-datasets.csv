@@ -1,0 +1,14 @@
+Name,Location,Type,No of buildings,Longest Period in Days,Resolution,Datasource,Paper
+AMPds,,Household,1,,,http://ampds.org/,http://ampds.org/EPEC_2013.pdf
+BERDS,"Berkley, USA",Commercial,3,7,,http://www.eecs.berkeley.edu/~maasoumy/,http://biglearn.org/2013/files/papers/biglearning2013_submission_25.pdf
+COMBED,"New Delhi, India",Commercial,,30,30s,http://combed.github.io/,arXiv:1408.6595
+ECO,"Thun, Switzerland",Household,6,244,1Hz,http://www.vs.inf.ethz.ch/res/show.html?what=eco-data,http://www.vs.inf.ethz.ch/publ/bibtex.html?file=papers/beckel-2014-nilm
+GREEND,Austria/Italy,Household,,,1Hz,http://sourceforge.net/projects/greend/,http://arxiv.org/abs/1405.3100
+HES,United Kingdom,,,,,n/a (?),n/a
+iAWE,"New Delhi, India",Household,1,73,,http://iawe.github.io/,https://www.researchgate.net/profile/Nipun_Batra/publication/257527880_It%27s_Different_Insights_into_home_energy_consumption_in_India/links/0046352560b60a38a1000000.pdf
+IHEPCDS,"Sceaux, France",Household,1,1456,,http://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption#,http://arxiv.org/abs/1004.0456
+Pecan Street,"{Austin, San Diego, Boulder}, USA ",Household,725,1281,1min,https://dataport.pecanstreet.org/,n/a
+REDD,"Boston, USA",Household,10,19,15kHz,http://redd.csail.mit.edu/,http://redd.csail.mit.edu/kolter-kddsust11.pdf
+Smart*,"Massachussets, USA",Household,,90,1min,http://traces.cs.umass.edu/index.php/Smart/Smart,http://lass.cs.umass.edu/papers/pdf/sustkdd12-smart.pdf
+SustData,"Madeira, Portugal",Household,50,504,1min,http://aveiro.m-iti.org:3000/,"Lucas Pereira, Filipe Quintal, Rodolfo Gonçalves and Nuno J. Nunes, SustData: A Public Dataset for ICT4S Electric Energy Research In Proceedings of the second International Conference on ICT for Sustainability. Stockholm, Sweden. August 24 – 27, 2014."
+UK Dale,United Kingdom,Household,5,,,http://data.ukedc.rl.ac.uk/simplebrowse/edc/efficiency/residential/EnergyConsumption/Domestic,http://www.nature.com/articles/sdata20157
