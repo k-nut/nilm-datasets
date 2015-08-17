@@ -1,5 +1,5 @@
 Name,Location,Type,No of buildings,Longest Period in Days,Resolution,Datasource,Paper
-AMPds,,Household,1,,,http://ampds.org/,http://ampds.org/EPEC_2013.pdf
+AMPds, "Greate Vancouver, Canada",Household,1,730,,http://ampds.org/,http://ampds.org/EPEC_2013.pdf
 BERDS,"Berkley, USA",Commercial,3,7,,http://www.eecs.berkeley.edu/~maasoumy/,http://biglearn.org/2013/files/papers/biglearning2013_submission_25.pdf
 COMBED,"New Delhi, India",Commercial,,30,30s,http://combed.github.io/,arXiv:1408.6595
 ECO,"Thun, Switzerland",Household,6,244,1Hz,http://www.vs.inf.ethz.ch/res/show.html?what=eco-data,http://www.vs.inf.ethz.ch/publ/bibtex.html?file=papers/beckel-2014-nilm
