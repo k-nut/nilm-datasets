@@ -9,6 +9,6 @@ iAWE,"New Delhi, India",Household,1,73,,http://iawe.github.io/,https://www.resea
 IHEPCDS,"Sceaux, France",Household,1,1456,,http://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption#,http://arxiv.org/abs/1004.0456
 Pecan Street,"{Austin, San Diego, Boulder}, USA ",Household,725,1281,1min,https://dataport.pecanstreet.org/,n/a
 REDD,"Boston, USA",Household,10,19,15kHz,http://redd.csail.mit.edu/,http://redd.csail.mit.edu/kolter-kddsust11.pdf
-Smart*,"Massachussets, USA",Household,,90,1min,http://traces.cs.umass.edu/index.php/Smart/Smart,http://lass.cs.umass.edu/papers/pdf/sustkdd12-smart.pdf
+Smart*,"Massachussets, USA",Household,3,90,1min,http://traces.cs.umass.edu/index.php/Smart/Smart,http://lass.cs.umass.edu/papers/pdf/sustkdd12-smart.pdf
 SustData,"Madeira, Portugal",Household,50,504,1min,http://aveiro.m-iti.org:3000/,"Lucas Pereira, Filipe Quintal, Rodolfo Gonçalves and Nuno J. Nunes, SustData: A Public Dataset for ICT4S Electric Energy Research In Proceedings of the second International Conference on ICT for Sustainability. Stockholm, Sweden. August 24 – 27, 2014."
 UK Dale,United Kingdom,Household,5,,,http://data.ukedc.rl.ac.uk/simplebrowse/edc/efficiency/residential/EnergyConsumption/Domestic,http://www.nature.com/articles/sdata20157
